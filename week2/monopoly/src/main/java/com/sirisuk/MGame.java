@@ -39,5 +39,4 @@ public class MGame {
             p.takeTurn();
         }
     }
-
 }

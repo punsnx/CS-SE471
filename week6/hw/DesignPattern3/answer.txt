@@ -1,0 +1,2 @@
+It's decorator pattern
+because same interface and more behavior from it superclass

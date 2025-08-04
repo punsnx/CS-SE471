@@ -1,0 +1,3 @@
+Normally It's tempalte method pattern because 
+it has some same and diffrent behavior among sub-class 
+and it can also be composite because of containing sub-module (e.g. in PackageTour)

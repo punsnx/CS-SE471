@@ -1,0 +1,2 @@
+It's template method
+same method and different sub-class method
